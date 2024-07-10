@@ -1,5 +1,11 @@
 # next-docs-zeta
 
+## 12.5.0
+
+### Minor Changes
+
+- b9fa99d: Support `tag` facet field for Algolia Search Integration
+
 ## 12.4.2
 
 ### Patch Changes

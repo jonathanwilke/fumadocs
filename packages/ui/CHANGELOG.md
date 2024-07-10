@@ -1,5 +1,16 @@
 # next-docs-ui
 
+## 12.5.0
+
+### Minor Changes
+
+- b9fa99d: Support tag filters in search dialog
+
+### Patch Changes
+
+- Updated dependencies [b9fa99d]
+  - fumadocs-core@12.5.0
+
 ## 12.4.2
 
 ### Patch Changes
